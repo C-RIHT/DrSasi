@@ -1,0 +1,465 @@
+[
+  {
+    "subscale": "Extreme Lighting",
+    "question": "Question 1:  Do you have difficulty seeing in bright sunlight?",
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 100},
+      {"answer": "2- A little difficulty", "score": 75},
+      {"answer": "3- Some difficulty", "score": 50},
+      {"answer": "4- A lot of difficulty", "score": 25},
+      {"answer": "5- Completely blind under these conditions","score":0},
+      {"answer": "6- Stopped going out in bright sunlight because of your vision","score":0},
+      {"answer": "7- Stopped for other reason","score":-1}
+      
+    ]
+  },
+  {
+    "subscale": "Extreme Lighting",
+    "question": "Question 2:  Do you have difficulty seeing fluorescent lighting, like that found in stores and   offices?",
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 100},
+      {"answer": "2- A little difficulty", "score": 75},
+      {"answer": "3- Some difficulty", "score": 50},
+      {"answer": "4- A lot of difficulty", "score": 25},
+      {"answer": "5- Completely blind under these conditions","score":0},
+      {"answer": "6- Stopped going to places with fluorescent lighting because of your vision ","score":0},
+      {"answer": "7- Stopped for other reason","score":-1}
+      
+    ]
+  },
+  {
+    "subscale": "Extreme Lighting",
+    "question": "Question 3:  Do you find it hard to identify the face of a friend / Family when light is behind their head?",
+    
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 100},
+      {"answer": "2- A little difficulty", "score": 75},
+      {"answer": "3- Some difficulty", "score": 50},
+      {"answer": "4- A lot of difficulty", "score": 25},
+      {"answer": "5- Completely blind under these conditions","score":0},
+      {"answer": "6- Stopped doing this because of your vision","score":0},
+      {"answer": "7- Stopped for other reason","score":-1}
+      
+    ]
+  },
+  {
+    "subscale": "Extreme Lighting",
+    "question": "Question 4: Do you find it hard to read letters in dim lighting? ",
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 100},
+      {"answer": "2- A little difficulty", "score": 75},
+      {"answer": "3- Some difficulty", "score": 50},
+      {"answer": "4- A lot of difficulty", "score": 25},
+      {"answer": "5- Completely blind under these conditions","score":0},
+      {"answer": "6- Stopped doing this because of your vision ","score":0},
+      {"answer": "7- Stopped for other reason","score":-1},
+      {"answer": "8- Never reads in dim lights","score":-1}
+
+    ]  
+    
+  },
+  {
+    "subscale": "Extreme Lighting",
+    "question": "Question 5:  Do you have difficulty reading the newspaper without good lighting?",  
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 100},
+      {"answer": "2- A little difficulty", "score": 75},
+      {"answer": "3- Some difficulty", "score": 50},
+      {"answer": "4- A lot of difficulty", "score": 25},
+      {"answer": "5- Completely blind under these conditions","score":0},
+      {"answer": "6- Stopped doing this because of your vision","score":0},
+      {"answer": "7- Stopped for other reason","score":-1},
+      {"answer": "8- Never read the newspaper","score":-1}
+      
+    ]
+  },
+  {
+    "subscale": "Extreme Lighting",
+    "question": "Question 6:  Do you get upset because you have difficulty seeing while driving in the rain at night?",
+    "options": [
+      {"answer": "1- Don’t have difficulty with rain at night", "score": 100},
+      {"answer": "2- Get upset none of the time", "score": 100},
+      {"answer": "3- A little of the time ", "score": 75},
+      {"answer": "4-Some of the time", "score": 50},
+      {"answer": "5- Most or all of the time","score":25},
+      {"answer": "6- Stopped doing this because of your vision","score":0},
+      {"answer": "7- Stopped for other reason","score":-1},
+      {"answer": "8-Never drove","score":-1}
+      
+    ]
+  },
+  {
+    "subscale": "Extreme Lighting",
+    "question": "Question 7:  Do you find it difficult to read the letters printed other than white paper?",
+    
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 100},
+      {"answer": "2- A little difficulty", "score": 75},
+      {"answer": "3- Some difficulty", "score": 50},
+      {"answer": "4- A lot of difficulty", "score": 25},
+      {"answer": "5- Completely blind under these conditions","score":0},
+      {"answer": "6- Stopped doing this because of your vision","score":0},
+      {"answer": "7- Stopped for other reason","score":-1},
+      {"answer": "8- Never read material printed on dark colored paper ","score":-1}
+      
+    ]
+  },
+  {
+    "subscale": "Extreme Lighting",
+    "question": "Question 8: Do you find it difficult to see dark coloured vehicles at night time while driving ?",
+    
+  
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 100},
+      {"answer": "2- A little difficulty", "score": 75},
+      {"answer": "3- Some difficulty", "score": 50},
+      {"answer": "4- A lot of difficulty", "score": 25},
+      {"answer": "5- Completely blind under these conditions","score":0},
+      {"answer": "6- Stopped going out in bright sunlight because of your vision","score":0},
+      {"answer": "7- Stopped for other reason","score":-1},
+      {"answer": "8-Never drove","score":-1}
+      
+    ]
+  },
+  {
+    "subscale": "Mobility",
+    "question": "Question 9:Because of your vision, are you bothered that you have difficulty moving around in a darkened room?",
+    
+    "options": [
+      {"answer": "1-  Don’t have difficulty getting around", "score": 100},
+      {"answer": "2-  Bothered none of the time", "score": 100},
+      {"answer": "3-   A little of the time ", "score": 75},
+      {"answer": "4-   Some of the time ", "score": 50},
+      {"answer": "5- Most or all of the time","score":25},
+      {"answer": "6- Stopped doing this because of your vision ","score":0},
+      {"answer": "7- Stopped for other reason","score":-1}
+      
+    ]
+  },
+  {
+    "subscale":"Mobility",
+    "question": "Question 10: Because of your vision, do you have difficulty going out to nighttime social events such as religious events, the theater, relative gatherings/ functions (marriages, reception etc.,),  friend’s homes, or restaurants?",
+    
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 100},
+      {"answer": "2- A little difficulty", "score": 75},
+      {"answer": "3- Some difficulty", "score": 50},
+      {"answer": "4- A lot of difficulty", "score": 25},
+      {"answer": "5- Completely blind under these conditions","score":0},
+      {"answer": "6- Stopped doing this because of your vision","score":0},
+      {"answer": "7- Stopped for other reason","score":-1}
+      
+    ]
+  },
+  {
+    "subscale": "Mobility",
+    "question": "Question 11:Do you depend on others to help you because of your vision at night or under poor  lighting?",  
+    
+    "options": [
+      {"answer": "1-  None of the time", "score": 100},
+      {"answer": "2- A little of the time", "score": 75},
+      {"answer": "3-  Some of the time", "score": 50},
+      {"answer": "4-  Most or all of the time", "score": 25},
+      {"answer": "5- Stopped going out under these conditions because vision causes you to be dependent on others ","score":0},
+      {"answer": "6- Stopped for other reason","score":-1}
+      
+    ]
+  },
+  {
+    "subscale": "Mobility",
+    "question": "Question 12:Do you worry or are you concerned that you might fall at night because of your   vision?",  
+    
+    "options": [
+      {"answer": "1-  None of the time", "score": 100},
+      {"answer": "2-  A little of the time", "score": 75},
+      {"answer": "3-  Some of the time", "score": 50},
+      {"answer": "4-  Most or all of the time", "score": 25},
+      {"answer": "5-  Stopped doing because vision causes you to worry about falling at night","score":0},
+      {"answer": "6-  Stopped for other reason","score":-1}
+      
+    ]
+  },
+  {
+    "subscale": "Mobility",
+    "question": "Question 13: Do you have difficulty seeing colors at night? ",
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 100},
+      {"answer": "2- A little difficulty", "score": 75},
+      {"answer": "3- Some difficulty", "score": 50},
+      {"answer": "4- A lot of difficulty", "score": 25},
+      {"answer": "5- Completely blind under these conditions","score":0},
+      {"answer": "6-  Stopped doing this because of your vision","score":0},
+      {"answer": "7- Stopped for other reason","score":-1}
+      
+    ]
+  },
+  {
+    "subscale": "Mobility",
+    "question": "Question 14:Do you have difficulty seeing furniture in dimly lit rooms with dark coloured floors?",
+    
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 100},
+      {"answer": "2- A little difficulty", "score": 75},
+      {"answer": "3- Some difficulty", "score": 50},
+      {"answer": "4- A lot of difficulty", "score": 25},
+      {"answer": "5- Completely blind under these conditions","score":0},
+      {"answer": "6- Stopped doing this because of your vision","score":0},
+      {"answer": "7- Stopped for other reason","score":-1}
+      
+    ]
+  },
+  {
+    "subscale": "General dim lighting",
+    "question": "Question 15:  Do you have difficulty seeing at night? ",
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 100},
+      {"answer": "2- A little difficulty", "score": 75},
+      {"answer": "3- Some difficulty", "score": 50},
+      {"answer": "4- A lot of difficulty", "score": 25},
+      {"answer": "5- Completely blind under these conditions","score":0}
+      
+      
+      
+    ]
+  },
+  {
+    "subscale": "General dim lighting",
+    "question": "Question 16:Do you have difficulty seeing in poor lighting conditions such as at dusk or dawn or   in a poorly lit room?   ",
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 100},
+      {"answer": "2- A little difficulty", "score": 75},
+      {"answer": "3- Some difficulty", "score": 50},
+      {"answer": "4- A lot of difficulty", "score": 25},
+      {"answer": "5- Completely blind under these conditions","score":0}
+      
+      
+      
+    ]
+  },
+  {
+    "subscale": "General dim lighting",
+    "question": "Question 17:Do you have difficulty with depth perception at night? ",
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 100},
+      {"answer": "2- A little difficulty", "score": 75},
+      {"answer": "3- Some difficulty", "score": 50},
+      {"answer": "4- A lot of difficulty", "score": 25},
+      {"answer": "5- Completely blind under these conditions","score":0}
+      
+      
+      
+    ]
+  },
+  {
+    "subscale": "General dim lighting",
+    "question": "Question 18:  Do you have difficulty seeing in candlelight?",
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 100},
+      {"answer": "2- A little difficulty", "score": 75},
+      {"answer": "3- Some difficulty", "score": 50},
+      {"answer": "4- A lot of difficulty", "score": 25},
+      {"answer": "5- Completely blind under these conditions","score":0},
+      {"answer": "6- Stopped going to places with candlelight because of your vision","score":0},
+      {"answer": "7- Stopped for other reason","score":-1}
+      
+    ]
+  },
+  {
+    "subscale": "General dim lighting",
+    "question": "Question 19:When you visit someone’s home and it’s not very bright, do you find it hard to see clearly?",
+    
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 100},
+      {"answer": "2- A little difficulty", "score": 75},
+      {"answer": "3- Some difficulty", "score": 50},
+      {"answer": "4- A lot of difficulty", "score": 25},
+      {"answer": "5- Completely blind under these conditions","score":0},
+      {"answer": "6- Stopped doing this because of your vision  ","score":0},
+      {"answer": "7- Stopped for other reason","score":-1}
+      
+    ]
+  },
+  {
+    "subscale": "General dim lighting",
+    "question": "Question 20:Do you have difficulty seeing under kitchen counters or in cabinets or closets because there is not enough light? ",
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 100},
+      {"answer": "2- A little difficulty", "score": 75},
+      {"answer": "3- Some difficulty", "score": 50},
+      {"answer": "4- A lot of difficulty", "score": 25},
+      {"answer": "5- Completely blind under these conditions","score":0},
+      {"answer": "6- Stopped doing this because of your vision  ","score":0},
+      {"answer": "7- Stopped for other reason","score":-1}
+      
+    ]
+  },
+  {
+    "subscale": "Peripheral vision",
+    "question": "Question 21:  Do you have difficulty with your peripheral vision under poor lighting conditions?  ",
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 100},
+      {"answer": "2- A little difficulty", "score": 75},
+      {"answer": "3- Some difficulty", "score": 50},
+      {"answer": "4- A lot of difficulty", "score": 25},
+      {"answer": "5- Completely blind under these conditions","score":0}
+      
+      
+      
+    ]
+  },
+  {
+    "subscale": "Peripheral vision",
+    "question": "Question 22: Do you have difficulty with your peripheral vision at night?  ",
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 100},
+      {"answer": "2- A little difficulty", "score": 75},
+      {"answer": "3- Some difficulty", "score": 50},
+      {"answer": "4- A lot of difficulty", "score": 25},
+      {"answer": "5- Completely blind under these conditions","score":0}
+      
+      
+      
+    ]
+  },
+  {
+    "subscale": "Peripheral vision",
+    "question": "Question 23:  Do you have difficulty with your peripheral vision in bright sunlight?",
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 100},
+      {"answer": "2- A little difficulty", "score": 75},
+      {"answer": "3- Some difficulty", "score": 50},
+      {"answer": "4- A lot of difficulty", "score": 25},
+      {"answer": "5- Completely blind under these conditions","score":0}
+      
+      
+      
+    ]
+  },
+  {
+    "subscale": "Driving",
+    "question": "Question 24: DO you have difficulty reading street signs when driving at night ?",
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 100},
+      {"answer": "2- A little difficulty", "score": 75},
+      {"answer": "3- Some difficulty", "score": 50},
+      {"answer": "4- A lot of difficulty", "score": 25},
+      {"answer": "5- Completely blind under these conditions","score":0},
+      {"answer": "6- Stopped doing this because of your vision","score":0},
+      {"answer": "7- Stopped for other reason","score":-1},
+      {"answer": "8- Never drove","score":-1}
+
+    ]
+  },
+  {
+    "subscale": "Driving",
+    "question": "Question 25:  While driving at night, do headlights from oncoming cars cause you difficulty?",  
+    
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 100},
+      {"answer": "2- A little difficulty", "score": 75},
+      {"answer": "3- Some difficulty", "score": 50},
+      {"answer": "4- A lot of difficulty", "score": 25},
+      {"answer": "5- Completely blind under these conditions","score":0},
+      {"answer": "6- Stopped doing this because of your vision","score":0},
+      {"answer": "7- Stopped for other reason","score":-1},
+      {"answer": "8- Never drove","score":-1}
+
+    ]
+  },
+  {
+    "subscale": "Driving",
+    "question": "Question 26: Have you limited driving in the rain at night because of difficulty seeing?",  
+    
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 100},
+      {"answer": "2- A little difficulty", "score": 75},
+      {"answer": "3- Some difficulty", "score": 50},
+      {"answer": "4-  Most or all of the time", "score": 25},
+      {"answer": "5- Completely blind under these conditions","score":0},
+      {"answer": "6- Stopped doing this because of your vision","score":0},
+      {"answer": "7- Stopped for other reason","score":-1},
+      {"answer": "8- Never drove","score":-1}
+    ]
+  },
+  {
+    "subscale": "Driving",
+    "question": "Question 27: Do you limit your driving at night due to your vision?",
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 100},
+      {"answer": "2- A little difficulty", "score": 75},
+      {"answer": "3- Some difficulty", "score": 50},
+      {"answer": "4-  Most or all of the time", "score": 25},
+      {"answer": "5- Completely blind under these conditions","score":0},
+      {"answer": "6- Stopped doing this because of your vision","score":0},
+      {"answer": "7- Stopped for other reason","score":-1},
+      {"answer": "8- Never drove","score":-1}
+    ]
+  },
+  {
+    "subscale": "Driving",
+    "question": "Question 28: Do you have difficulty seeing while driving at dawn or dusk because of glare?",  
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 100},
+      {"answer": "2- A little difficulty", "score": 75},
+      {"answer": "3- Some difficulty", "score": 50},
+      {"answer": "4- A lot of difficulty", "score": 25},
+      {"answer": "5- Completely blind under these conditions","score":0},
+      {"answer": "6- Stopped doing this because of your vision","score":0},
+      {"answer": "7- Stopped for other reason","score":-1},
+      {"answer": "8- Never drove","score":",-1"}
+    ]
+  },
+  {
+    "subscale": "Emotional distress",
+    "question": "Question 29:Do you worry or are you concerned that you may make a mistake at a social event because you can’t see well enough under poor lighting conditions? (for example, identifying food on plates, identifying people faces, reading posters/ pictures etc., )",
+    
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 100},
+      {"answer": "2- A little difficulty", "score": 75},
+      {"answer": "3- Some difficulty", "score": 50},
+      {"answer": "4-  Most or all of the time", "score": 25},
+      {"answer": "5-  Stopped going to social events because concerned about making a mistake","score":0},
+      {"answer": "6- Stopped for other reason","score":-1}
+      
+    ]
+  },
+  {
+    "subscale": "Emotional distress",
+    "question": "Question 30: Do you feel bad or depressed about your ability to see at night or under poor lighting   conditions?",
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 100},
+      {"answer": "2- A little difficulty", "score": 75},
+      {"answer": "3- Some difficulty", "score": 50},
+      {"answer": "4-  Most or all of the time", "score": 25},
+      {"answer": "5- Stopped going out under these conditions because feel bad or depressed about your ability to see","score":0},
+      {"answer": "6- Stopped for other reason","score":-1}
+      
+    ]
+  },
+  {
+    "subscale": "Emotional distress",
+    "question": "Question 31: Do you feel bad or depressed because your vision at night or under poor lighting keeps   you from doing all that you would like to do? ",
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 100},
+      {"answer": "2- A little difficulty", "score": 75},
+      {"answer": "3- Some difficulty", "score": 50},
+      {"answer": "4-  Most or all of the time ", "score": 25},
+      {"answer": "5- Stopped going out in bright sunlight because of your vision","score":0},
+      {"answer": "6- Stopped for other reason","score":0}
+      
+    ]
+  },
+  {
+    "subscale": "Emotional distress",
+    "question": "Question 32: Do you feel bad or depressed that you aren’t able to help others as much as you want   because of your vision at night or under poor lighting?",
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 100},
+      {"answer": "2- A little difficulty", "score": 75},
+      {"answer": "3- Some difficulty", "score": 50},
+      {"answer": "4-  Most or all of the time ", "score": 25},
+      {"answer": "5- Stopped going out in bright sunlight because of your vision","score":0},
+      {"answer": "6- Stopped for other reason","score":-1}
+      
+    ]
+  }
+]
