@@ -1,0 +1,547 @@
+
+ [
+ {
+    "subscale": "GENERAL HEALTH AND VISION",
+    "question": "Question 1:  In general, would you say your overall health is ?",
+    "options": [
+      {"answer": "1- Excellent ", "score": 1},
+      {"answer": "2- very good", "score": 2},
+      {"answer": "3- Good", "score": 3},
+      {"answer": "4- Fair", "score": 4},
+      {"answer": "5- poor","score":5}
+    ]
+  },
+  {
+    "subscale": "GENERAL HEALTH AND VISION",
+    "question": "Question 2:  At the present time, would you say your eyesight using both eyes(with glasses or contact lenses, if you wear them) is excellent, good, fair, poor, or very poor or are you completely blind?",
+    "options": [
+      {"answer": "1- Excellent ", "score": 1},
+      {"answer": "2-  good", "score": 2},
+      {"answer": "3- Fair", "score": 3},
+      {"answer": "4- Poor", "score": 4},
+      {"answer": "5- Very poor","score":5},
+      {"answer": "6- Completely Blind","score":6}
+
+
+    ]
+  },
+  {
+    "subscale": "GENERAL HEALTH AND VISION",
+    "question": "Question 3:  How much of the time do you worry about your eyesight?",
+     "options": [
+      {"answer": "1- None of the time", "score": 1},
+      {"answer": "2- A little of the time", "score": 2},
+      {"answer": "3- Some of the time", "score": 3},
+      {"answer": "4- Most of the time", "score": 4},
+      {"answer": "5- All of the time","score":5}
+     
+    ]
+  },
+  {
+    "subscale": "GENERAL HEALTH AND VISION",
+    "question": "Question 4:How much pain or discomfort have you had in and around your eyes (for example, burning, itching, or aching)? Would you say it is:? ",
+    "options": [
+      {"answer": "1- None ", "score": 1},
+      {"answer": "2- Mild  ", "score": 2},
+      {"answer": "3- Moderate", "score": 3},
+      {"answer": "4- Severe or", "score": 4},
+      {"answer": "5- Very severe?","score":5}
+      
+    ]  
+    
+  },
+  {
+    "subscale": " DIFFICULTY WITH ACTIVITIES",
+    "question": "Question 5:How much difficulty do you have reading ordinary print in newspapers? Would you say you have: ?",  
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 1},
+      {"answer": "2- A little difficulty", "score": 2},
+      {"answer": "3- Moderate difficulty", "score": 3},
+      {"answer": "4- Extreme difficulty", "score": 4},
+      {"answer": "5- Stopped doing this because of your  eyesight ","score":5},
+      {"answer": "6- Stopped doing this for other reasons or not interested in doing this ","score":6}
+      
+    ]
+  },
+  {
+    "subscale": " DIFFICULTY WITH ACTIVITIES",
+    "question": "Question 6: How much difficulty do you have doing work or hobbies that require you to see well up close, such as cooking, sewing, fixing things around the house, or using hand tools? Would you say you have: ?",
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 1},
+      {"answer": "2- A little difficulty", "score": 2},
+      {"answer": "3- Moderate difficulty ", "score": 3},
+      {"answer": "4- Extreme difficulty", "score": 4},
+      {"answer": "5- Stopped doing this because of your  eyesight ","score":5},
+      {"answer": "6- Stopped doing this for other reasons or not interested in doing this ","score":6}
+      
+    ]
+  },
+  {
+    "subscale": " DIFFICULTY WITH ACTIVITIES",
+    "question": "Question 7:Because of your eyesight, how much difficulty do you have finding something on a crowded shelf ?",
+     "options": [
+      {"answer": "1- No difficulty at all", "score": 1},
+      {"answer": "2- A little difficulty", "score": 2},
+      {"answer": "3- Moderate difficulty", "score": 3},
+      {"answer": "4- Extreme difficulty", "score": 4},
+      {"answer": "5- Stopped doing this because of your  eyesight ","score":5},
+      {"answer": "6- Stopped doing this for other reasons or not interested in doing this ","score":6}
+      
+    ]
+  },
+  {
+    "subscale": " DIFFICULTY WITH ACTIVITIES",
+    "question": "Question 8:How much difficulty do you have reading street signs or the names of stores ?",
+     "options": [
+      {"answer": "1- No difficulty at all", "score": 1},
+      {"answer": "2- A little difficulty", "score": 2},
+      {"answer": "3- Moderate difficulty", "score": 3},
+      {"answer": "4- Extreme difficulty", "score": 4},
+      {"answer": "5- Stopped doing this because of your  eyesight ","score":5},
+      {"answer": "6- Stopped doing this for other reasons or not interested in doing this ","score":6}
+      
+      
+    ]
+  },
+  {
+    "subscale": " DIFFICULTY WITH ACTIVITIES",
+    "question": "Question 9:Because of your eyesight, how much difficulty do you have going down steps, stairs, or curbs in dim light or at night?",
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 1},
+      {"answer": "2- A little difficulty", "score": 2},
+      {"answer": "3- Moderate difficulty ", "score":3},
+      {"answer": "4- Extreme difficulty ", "score": 4},
+      {"answer": "5- Stopped doing this because of your  eyesight ","score":5},
+      {"answer": "6- Stopped doing this for other reasons or not interested in doing this ","score":6}
+      
+    ]
+  },
+  {
+    "subscale": " DIFFICULTY WITH ACTIVITIES",
+    "question": "Question 10:Because of your eyesight, how much difficulty do you have noticing objects off to the side while you are walking along?",
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 1},
+      {"answer": "2- A little difficulty", "score": 2},
+      {"answer": "3- Moderate difficulty", "score": 3},
+      {"answer": "4- Extreme difficulty", "score": 4},
+      {"answer": "5- Stopped doing this because of your  eyesight ","score":5},
+      {"answer": "6- Stopped doing this for other reasons or not interested in doing this ","score":6}
+      
+      
+    ]
+  }, 
+  {
+    "subscale": " DIFFICULTY WITH ACTIVITIES",
+    "question": "Question 11:Because of your eyesight, how much difficulty do you have seeing how people react to things you say?",
+     "options": [
+      {"answer": "1- No difficulty at all", "score": 1},
+      {"answer": "2- A little difficulty", "score": 2},
+      {"answer": "3- Moderate difficulty", "score": 3},
+      {"answer": "4- Extreme difficulty", "score": 4},
+      {"answer": "5- Stopped doing this because of your  eyesight ","score":5},
+      {"answer": "6- Stopped doing this for other reasons or not interested in doing this ","score":6}
+      
+      
+    ]
+  }, 
+  {
+    "subscale": " DIFFICULTY WITH ACTIVITIES",
+    "question": "Question 12:Because of your eyesight, how much difficulty do you have picking out and matching your own clothes?",
+      "options": [
+      {"answer": "1- No difficulty at all", "score": 1},
+      {"answer": "2- A little difficulty", "score": 2},
+      {"answer": "3- Moderate difficulty", "score": 3},
+      {"answer": "4- Extreme difficulty", "score": 4},
+      {"answer": "5- Stopped doing this because of your  eyesight ","score":5},
+      {"answer": "6- Stopped doing this for other reasons or not interested in doing this ","score":6},
+      
+    ]
+  }, 
+  {
+    "subscale": " DIFFICULTY WITH ACTIVITIES",
+    "question": "Question 13:Because of your eyesight, how much difficulty do you have visiting with people in their homes, at parties, or in restaurants ?",
+     "options": [
+      {"answer": "1- No difficulty at all", "score": 1},
+      {"answer": "2- A little difficulty", "score": 2},
+      {"answer": "3- Moderate difficulty", "score": 3},
+      {"answer": "4- Extreme difficulty", "score": 4},
+      {"answer": "5- Stopped doing this because of your  eyesight ","score":5},
+      {"answer": "6-Stopped doing this for other reasons or not interested in doing this ","score":6}
+      
+    ]
+  }, 
+  {
+    "subscale": " DIFFICULTY WITH ACTIVITIES",
+    "question": "Question 14:Because of your eyesight, how much difficulty do you have going out to see movies, plays, or sports events?",
+     "options": [
+      {"answer": "1- No difficulty at all", "score": 1},
+      {"answer": "2- A little difficulty", "score": 2},
+      {"answer": "3- Moderate difficulty", "score": 3},
+      {"answer": "4- Extreme difficulty", "score": 4},
+      {"answer": "5- Stopped doing this because of your  eyesight ","score":5},
+      {"answer": "6- Stopped doing this for other reasons or not interested in doing this ","score":6}
+      
+      
+    ]
+  }, 
+  {
+    "subscale": " DIFFICULTY WITH ACTIVITIES",
+    "question": "Question 15:Now, I’d like to ask about driving a car. Are you currently driving, at least once in a while?",
+    "options": [
+      {"answer": "1- Yes", "score":1 },
+      {"answer": "2- No", "score":2 }
+     
+      
+    ]
+  }, 
+  {
+    "subscale": " DIFFICULTY WITH ACTIVITIES",
+    "question": "Question 15a:IF NO: Have you never driven a car or have you given up driving ?",
+    "options": [
+      {"answer": "1- Never drove", "score": 1},
+      {"answer": "2- Gave up", "score": 2}
+      
+      
+    ]
+  }, 
+  {
+    "subscale": " DIFFICULTY WITH ACTIVITIES",
+    "question": "Question 15b:IF YOU GAVE UP DRIVING: Was that mainly because of your eyesight, mainly for some other reason, or because of both your eyesight and other reasons?",
+    "options": [
+      {"answer": "1- Mainly eyesight", "score": 1},
+      {"answer": "2- Mainly other reasons", "score": 2},
+      {"answer": "3- Both eyesight and other reasons", "score": 3}
+      
+      
+    ]
+  }, 
+  {
+    "subscale": " DIFFICULTY WITH ACTIVITIES",
+    "question": "Question 15c:IF CURRENTLY DRIVING: How much difficulty do you have driving during the daytime in familiar places? Would you say you have: ?",
+     "options": [
+      {"answer": "1- No difficulty at all", "score": 1},
+      {"answer": "2- A little difficulty", "score": 2},
+      {"answer": "3- Moderate difficulty", "score": 3},
+      {"answer": "4- Extreme difficulty", "score": 4}
+      
+      
+    ]
+  },
+  {
+    "subscale": " DIFFICULTY WITH ACTIVITIES",
+    "question": "Question 16:How much difficulty do you have driving at night? Would you say you have: ?",
+     "options": [
+      {"answer": "1- No difficulty at all", "score": 1},
+      {"answer": "2- A little difficulty", "score": 2},
+      {"answer": "3- Moderate difficulty", "score": 3},
+      {"answer": "4- Extreme difficulty", "score": 4},
+      {"answer": "5- Stopped doing this because of your eyesight","score":5}
+      
+      
+    ]
+  },
+  {
+    "subscale": " DIFFICULTY WITH ACTIVITIES",
+    "question": "Question 16A:How much difficulty do you have driving in difficult conditions, such as in bad weather, during rush hour, on the freeway, or in city traffic? Would you say you have:?",
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 1},
+      {"answer": "2- A little difficulty", "score": 2},
+      {"answer": "3- Moderate difficulty", "score": 3},
+      {"answer": "4- Extreme difficulty", "score": 4},
+      {"answer": "5- Stopped doing this because of your eyesight","score":5},
+      {"answer": "6-Stopped doing this for other reasons or not interested in doing this","score":6}
+      
+      
+    ]
+  },
+  {
+    "subscale": " RESPONSES TO VISION PROBLEMS",
+    "question": "Question 17:Do you accomplish less than you would like because of your vision?",
+     "options": [
+      {"answer": "1- All of the time", "score": 1},
+      {"answer": "2- Most of the time", "score": 2},
+      {"answer": "3- Some of the time", "score": 3},
+      {"answer": "4- A little of the time", "score": 4},
+      {"answer": "5- None of the time","score":5}
+      
+      
+    ]
+  },
+  {
+    "subscale": " RESPONSES TO VISION PROBLEMS",
+    "question": "Question 18:Are you limited in how long you can work or do other activities because of your vision? ",
+    "options": [
+      {"answer": "1- All of the time", "score": 1},
+      {"answer": "2- Most of the time", "score": 2},
+      {"answer": "3- Some of the time", "score": 3},
+      {"answer": "4- A little  of the time", "score": 4},
+      {"answer": "5- None of the time","score":5}
+      
+    ]
+  },
+  {
+    "subscale": " RESPONSES TO VISION PROBLEMS",
+    "question": "Question 19:How much does pain or discomfort in or around your eyes, for example, burning, itching, or aching, keep you from doing what you’d like to be doing? Would you say:",
+    "options": [
+      {"answer": "1- All of the time", "score": 1},
+      {"answer": "2- A little difficulty", "score": 2},
+      {"answer": "3- Some of the time", "score": 3},
+      {"answer": "4- A little of the time", "score": 4},
+      {"answer": "5- None of the time","score":5}
+      
+    ]
+  },
+  {
+    "subscale": " RESPONSES TO VISION PROBLEMS",
+    "question": "Question 20:I stay home most of the time because of my eyesight",
+    "options": [
+      {"answer": "1- Definitely true", "score": 1},
+      {"answer": "2- Mostly true", "score": 2},
+      {"answer": "3- Not sure", "score": 3},
+      {"answer": "4- Mostly false", "score": 4},
+      {"answer": "5- Definitely false","score":5}
+     
+    ]
+  },
+  {
+    "subscale": " RESPONSES TO VISION PROBLEMS",
+    "question": "Question 21: I feel frustrated a lot of the time because of my eyesight ",
+    "options": [
+      {"answer": "1- Definitely true", "score": 1},
+      {"answer": "2- Mostly true", "score": 2},
+      {"answer": "3- Not sure", "score": 3},
+      {"answer": "4- Mostly false", "score":4},
+      {"answer": "5- Definitely false","score":5}
+      
+    ]
+  },
+  {
+    "subscale": " RESPONSES TO VISION PROBLEMS",
+    "question": "Question 22:  I have much less control over what I do, because of my eyesight ?",
+     "options": [
+      {"answer": "1- Definitely true", "score": 1},
+      {"answer": "2- Mostly true", "score": 2},
+      {"answer": "3- Not sure", "score": 3},
+      {"answer": "4- Mostly false", "score": 4},
+      {"answer": "5- Definitely false","score":5}
+      
+      
+    ]
+  },
+  {
+    "subscale": " RESPONSES TO VISION PROBLEMS",
+    "question": "Question 23:Because of my eyesight, I have to rely too much on what other people tell me ?",
+    "options": [
+      {"answer": "1- Definitely true", "score": 1},
+      {"answer": "2-Mostly true", "score": 2},
+      {"answer": "3- Not sure", "score": 3},
+      {"answer": "4- Mostly false", "score": 4},
+      {"answer": "5- Definitely false","score":5}
+     
+    ]
+  },
+  {
+    "subscale": " RESPONSES TO VISION PROBLEMS",
+    "question": "Question 24: I need a lot of help from others because of my eyesight.?",
+     "options": [
+      {"answer": "1- Definitely true", "score": 1},
+      {"answer": "2- Mostly true", "score": 2},
+      {"answer": "3- Not sure", "score": 3},
+      {"answer": "4- Mostly false", "score": 4},
+      {"answer": "5- Definitely false","score":5}
+      
+    ]
+  },
+  {
+    "subscale": " RESPONSES TO VISION PROBLEMS",
+    "question": "Question 25:I worry about doing things that will embarrass myself or others, because of my eyesight",
+     "options": [
+      {"answer": "1- Definitely true", "score": 1},
+      {"answer": "2- Mostly true", "score": 2},
+      {"answer": "3- Not sure", "score": 3},
+      {"answer": "4- Mostly false", "score": 4},
+      {"answer": "5- Definitely false","score":5}
+      
+    ]
+  },
+  {
+    "subscale": "GENERAL HEALTH    ",
+    "question": "Question A1: How would you rate your overall health, on a scale where zero is as bad as death and 10 is best possible health?",
+    "options": [
+      {"answer": "1- Worst", "score": 0},
+      {"answer": "2- Best ", "score": 10}
+     
+      
+    ]
+  },
+  {
+    "subscale": " GENERAL VISION",
+    "question": "Question A2:How would you rate your eyesight now (with glasses or contact lens on, if you wear them), on a scale of from 0 to 10, where zero means the worst possible eyesight, as bad or worse than being blind, and 10",
+    "options": [
+      {"answer": "1- Worst", "score": 0},
+      {"answer": "2- Best ", "score": 10}
+      
+      
+    ]
+  },
+  {
+    "subscale": " NEAR VISION",
+    "question": "Question A3:Wearing glasses, how much difficulty do you have reading the small print in a telephone book, on a medicine bottle, or on legal forms? Would you say:?",
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 1},
+      {"answer": "2- A little difficulty", "score": 2},
+      {"answer": "3- Moderate difficulty", "score": 3},
+      {"answer": "4- Extreme difficulty", "score": 4},
+      {"answer": "5- Stopped doing this because of your eyesight","score":5},
+      {"answer": "6- Stopped doing this for other reasons or not interested in doing this","score":6}
+      
+      
+    ]
+  },
+  {
+    "subscale": "NEAR VISION",
+    "question": "Question A4:Because of your eyesight, how much difficulty do you have figuring out whether bills you receive are accurate?",
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 1},
+      {"answer": "2- A little difficulty", "score": 2},
+      {"answer": "3- Moderate difficulty", "score": 3},
+      {"answer": "4- Extreme difficulty", "score": 4},
+      {"answer": "5- Stopped doing this because of your eyesight","score":5},
+      {"answer": "6- Stopped doing this for other reasons or notinterested in doing this","score":6}
+      
+    ]
+  },
+  {
+    "subscale": "NEAR VISION",
+    "question": "Question A5:Because of your eyesight, how much difficulty do you have doing things like shaving, styling your hair, or putting on makeup?",
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 1},
+      {"answer": "2- A little difficulty", "score": 2},
+      {"answer": "3- Moderate difficulty", "score": 3},
+      {"answer": "4- Extreme difficulty", "score": 4},
+      {"answer": "5- Stopped doing this because of your eyesight","score":5},
+      {"answer": "6- Stopped doing this for other reasons or not interested in doing this","score":6}
+      
+    ]
+  },
+  {
+    "subscale": "DISTANCE VISION",
+    "question": "Question A6: Because of your eyesight, how much difficulty do you have recognizing people you know from across a room?",
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 1},
+      {"answer": "2- A little difficulty", "score": 2},
+      {"answer": "3- Moderate difficulty", "score": 3},
+      {"answer": "4- Extreme difficulty", "score": 4},
+      {"answer": "5- Stopped doing this because of your eyesight","score":5},
+      {"answer": "6- Stopped doing this for other reasons or not interested in doing this","score":6}
+    ]
+  },
+  {
+    "subscale": "DISTANCE VISION",
+    "question": "Question A7:Because of your eyesight, how much difficulty do you have taking part in active sports or other outdoor activities that you enjoy (like golf,bowling, jogging, or walking)?",
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 1},
+      {"answer": "2- A little difficulty", "score": 2},
+      {"answer": "3- Moderate difficulty", "score": 3},
+      {"answer": "4- Extreme difficulty", "score": 4},
+      {"answer": "5- Stopped doing this because of your eyesight","score":5},
+      {"answer": "6- Stopped doing this for other reasons or not interested in doing this","score":6}
+      
+      
+    ]
+  },
+  {
+    "subscale": "DISTANCE VISION",
+    "question": "Question A8: Because of your eyesight, how much difficulty do you have seeing and enjoying programs on TV?",
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 1},
+      {"answer": "2- A little difficulty", "score": 2},
+      {"answer": "3- Moderate difficulty", "score": 3},
+      {"answer": "4- Extreme difficulty", "score": 4},
+      {"answer": "5- Stopped doing this because of your eyesight","score":5},
+      {"answer": "6- Stopped doing this for other reasons or not interested in doing this","score":6}
+     
+    ]
+  },
+  {
+    "subscale": "SOCIAL FUNCTION  ",
+    "question": "Question A9: Because of your eyesight, how much difficulty do you have entertaining friends and family in your home ?",
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 1},
+      {"answer": "2- A little difficulty", "score": 2},
+      {"answer": "3- Moderate difficulty", "score": 3},
+      {"answer": "4- Extreme difficulty", "score": 4},
+      {"answer": "5- Stopped doing this because of your eyesight","score":5},
+      {"answer": "6- Stopped doing this for other reasons or not interested in doing this","score":6}
+      
+      
+    ]
+  },
+  {
+    "subscale": "DRIVING",
+    "question": "Question A10:.[This items, “driving in difficult conditions”, has been included as item 16a as part of the base set of 25 vision-targeted items.]",
+    "options": [
+      {"answer": "1- No difficulty at all", "score": 100},
+      {"answer": "2- A little difficulty", "score": 75},
+      {"answer": "3- Some difficulty", "score": 50},
+      {"answer": "4- A lot of difficulty", "score": 25},
+      {"answer": "5- Completely blind under these conditions","score":0},
+      {"answer": "6- Stopped going out in bright sunlight because of your vision","score":0},
+      {"answer": "7- Stopped for other reason","score":"no score"},
+      {"answer": "8- Never drove","score":"no score"}
+      
+    ]
+  },
+  {
+    "subscale": "ROLE LIMITATIONS",
+    "question": "Question A11a: Do you have more help from others because of your vision? ",
+     "options": [
+      {"answer": "1-All of the time", "score": 1},
+      {"answer": "2- Most of the time", "score": 2},
+      {"answer": "3- Some of the time", "score": 3},
+      {"answer": "4- Little of the time", "score": 4},
+      {"answer": "5- None of the time","score":5}
+      
+      
+    ]
+  },
+  {
+    "subscale": "ROLE LIMITATIONS",
+    "question": "Question A11b:Are you limited in the kinds of things you can do because of your vision?",
+    "options": [
+      {"answer": "1- All of the time", "score": 1},
+      {"answer": "2- Most of the time", "score": 2},
+      {"answer": "3- Some of the time", "score": 3},
+      {"answer": "4- Little of the time", "score": 4},
+      {"answer": "5- None of the time","score":5}
+      
+      
+    ]
+  },
+  {
+    "subscale": " WELL-BEING/DISTRESS (#A12) and DEPENDENCY (#A13) ",
+    "question": "Question A12:I am often irritable because of my eyesight?",
+    "options": [
+      {"answer": "1- Definitely true", "score": 1},
+      {"answer": "2-Mostly true ", "score": 2},
+      {"answer": "3- Not sure", "score": 3},
+      {"answer": "4- Mostly false", "score": 4},
+      {"answer": "5- Definitely false","score":5}
+      
+      
+    ]
+  },
+  {
+    "subscale": "WELL-BEING/DISTRESS (#A12) and DEPENDENCY (#A13) ",
+    "question": "Question A13:I don’t go out of my home alone, because of my eyesight?",
+     "options": [
+      {"answer": "1- Definitely true", "score": 1},
+      {"answer": "2-Mostly true", "score": 2},
+      {"answer": "3- Not sure", "score": 3},
+      {"answer": "4- Mostly false", "score": 24},
+      {"answer": "5- Definitely false","score":5}
+      
+      
+    ]
+  }
+]
