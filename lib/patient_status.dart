@@ -137,9 +137,9 @@ class _TestBoxState extends State<TestBox> {
                   SizedBox(height: 16.0),
                   ElevatedButton(
                     style: ElevatedButton.styleFrom(
-                      primary:
+                      foregroundColor: Colors.white,
+                      backgroundColor:
                           _isCompleted ? Colors.green : Colors.blueGrey[500],
-                      onPrimary: Colors.white,
                       shape: RoundedRectangleBorder(
                         borderRadius: BorderRadius.circular(16.0),
                       ),
@@ -239,9 +239,9 @@ class _TestBoxState extends State<TestBox> {
                   SizedBox(height: 16.0),
                   ElevatedButton(
                     style: ElevatedButton.styleFrom(
-                      primary:
+                      foregroundColor: Colors.white,
+                      backgroundColor:
                           _isCompleted ? Colors.green : Colors.blueGrey[500],
-                      onPrimary: Colors.white,
                       shape: RoundedRectangleBorder(
                         borderRadius: BorderRadius.circular(16.0),
                       ),

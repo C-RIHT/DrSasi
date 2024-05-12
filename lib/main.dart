@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:my_clinical_app/investigator_request_form.dart';
-import 'package:my_clinical_app/patient_details_page.dart';
 import 'package:my_clinical_app/dashboard_page.dart';
 import 'package:my_clinical_app/patient_status.dart';
 

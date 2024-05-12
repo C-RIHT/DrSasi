@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:my_clinical_app/data_models.dart';
+
 import 'package:my_clinical_app/patient_status.dart';
-import 'package:my_clinical_app/question_page.dart'; // Replace with your actual file path
+// Replace with your actual file path
 
 class PatientDetailsPage extends StatefulWidget {
   @override
